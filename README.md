@@ -30,7 +30,7 @@ Please visit the deployed project at: https://priteshpatel823.github.io/Password
 
 ![image](https://user-images.githubusercontent.com/72167504/97792667-1c1fb980-1baf-11eb-92b8-e0a5d98c3810.png)
 
-# Licens
+# License
 
 MIT License
 
